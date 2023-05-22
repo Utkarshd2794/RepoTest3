@@ -1,0 +1,12 @@
+/.classpath
+/.project
+/target
+/obj
+.settings/
+/.idea
+*.iml
+.vscode/
+local.settings.json
+bin/
+obj/
+.DS_Store
